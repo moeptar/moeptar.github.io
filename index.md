@@ -11,3 +11,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Zitate
 > Zitat 1
 > Zitat 2
+
+## Bild
+<img src="#"/>
