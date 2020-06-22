@@ -7,3 +7,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Eigenschenschaft 3
 * Eigenschenschaft 4
 * Eigenschenschaft 5
+
+## Zitate
+> Zitat 1
+> Zitat 2
